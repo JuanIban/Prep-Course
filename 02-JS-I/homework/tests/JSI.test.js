@@ -45,6 +45,7 @@ describe('nuevoNum', function() {
   it('Deberia ser un numero', function() {
     expect(typeof nuevoNum).toBe('number');
   });
+  // asdlkajdlksjd
 });
 
 describe('nuevoBool', function() {
